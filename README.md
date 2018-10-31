@@ -1,0 +1,2 @@
+# firebase_upload_image
+firebaseに画像をアップロードするionicプロジェクト
