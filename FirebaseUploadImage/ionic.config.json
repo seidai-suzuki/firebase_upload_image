@@ -1,0 +1,7 @@
+{
+  "name": "FirebaseUploadImage",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
